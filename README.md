@@ -6,10 +6,7 @@
 # 💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 # 
-![](https://github-readme-stats.vercel.app/api?username=RodriMqs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RodriMqs&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriMqs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+###  GitHub Stats <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RodriMqs&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=57600" alt="GitHub Stats" width="372vw" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriMqs&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache_seconds=57600" alt="Top Languages" width="275vw" /> </div>
 
 ---
 
